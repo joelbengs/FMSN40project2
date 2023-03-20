@@ -1,1 +1,0 @@
-mydata <- read.delim("Data/hospital.txt", sep = ";")
